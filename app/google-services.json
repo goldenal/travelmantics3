@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "973865882576",
+    "firebase_url": "https://travel-ef466.firebaseio.com",
+    "project_id": "travel-ef466",
+    "storage_bucket": "travel-ef466.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973865882576:android:e0117926abf853f1",
+        "android_client_info": {
+          "package_name": "com.example.adeosunadewale.travelmantics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973865882576-258gf3v7l7fk2jiiltp6hqgpckja28og.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adeosunadewale.travelmantics",
+            "certificate_hash": "b534361b3d8749e66441684e38ff2551bd9c5e59"
+          }
+        },
+        {
+          "client_id": "973865882576-2365o0bnjucdngq8j3d7cq9vol98hg96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVnp5HnmDrxSDCubT7p0I7ETFIFEpytgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973865882576-2365o0bnjucdngq8j3d7cq9vol98hg96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
